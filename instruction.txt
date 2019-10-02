@@ -1,0 +1,9 @@
+1. install python 3 in your computer.
+2. ignore "" in given instruction
+   
+ window -->  on cmd type     "pip install python3"
+ linux -->  on terminal type "apt-get install python3"
+
+after that run this file in by typing given command
+on terminal or cmd.
+   "python stone_paper_scissor.py"
